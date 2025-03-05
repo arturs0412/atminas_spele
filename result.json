@@ -7,6 +7,20 @@
         "datums": "2025-03-05"
     },
     {
+        "id": 19,
+        "vards": "",
+        "klikski": 12,
+        "laiks": 9,
+        "datums": "2025-03-05"
+    },
+    {
+        "id": 18,
+        "vards": "",
+        "klikski": 12,
+        "laiks": 12,
+        "datums": "2025-03-05"
+    },
+    {
         "id": 13,
         "vards": "Andris",
         "klikski": 14,
@@ -14,24 +28,10 @@
         "datums": "2025-03-05"
     },
     {
-        "id": 2,
-        "vards": "Anonīmais",
-        "klikski": 100,
-        "laiks": 100,
-        "datums": "2020-01-01"
-    },
-    {
-        "id": 3,
-        "vards": "Anonīmais",
-        "klikski": 100,
-        "laiks": 100,
-        "datums": "2020-01-01"
-    },
-    {
-        "id": 4,
-        "vards": "Anonīmais",
-        "klikski": 100,
-        "laiks": 100,
-        "datums": "2020-01-01"
+        "id": 16,
+        "vards": "",
+        "klikski": 14,
+        "laiks": 15,
+        "datums": "2025-03-05"
     }
 ]
